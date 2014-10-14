@@ -1,3 +1,4 @@
+
 function sheetToPdf() {
   var data = SpreadsheetApp.getActiveSheet().getRange("A2:B4").getValues();          //Get data range
   var row;
@@ -26,3 +27,4 @@ function sheetToPdf() {
   DocsList.getFileById(doc.getId()).setTrashed(true);                                //Delete the template copy.
 
 }
+
