@@ -10,8 +10,8 @@ SpreadSheet(data)----->script---->doc with : images, fonts, tables... -----> PDF
 How to use it (test)
 --------------------
 
-Upload the Spreadsheet to your google drive. Better use this link : http://goo.gl/nM20k6
-Also Upload the .doc template to your google drive or use the link : http://goo.gl/9WSzFh
+Upload the Spreadsheet from the link to your drive : http://goo.gl/nM20k6
+Also Upload the .doc template to your google drive : http://goo.gl/9WSzFh
 
 The script should be in Spreadsheet>Menu>Script Editor. If it's not, then copy the code from sheetToPdf.js file and paste it in the SpreadSheet>Menu>Script Editor.
 
